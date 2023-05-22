@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<head>
+    <title>Desafio Complementar - Aula 6:HTML Semantico</title>
+    <link rel="shortcut icon" href="C:\Users\DELL\Desktop\new project\projeto 2 entrega">
+
+    <meta name = "Desafio 2" content="HTML, Desafio, CoderHouse, Programação, Rafael Lins">
+
+    <meta name = "descrição" content = "Desafio da Aula passada">
+
+</head>
+<hr>
+<hr>
+
+        <header>
+            <h1>Informações Pessoais</h1>
+            <p>
+                <ul>
+                    <li><u>Nome:</u> Rafael Lins</li>
+                    <li><u>Idade:</u> 34 anos</li>
+                    <li><u>Data de Nascimento:</u> 30/03/1989</li>
+                    <li><u>Profissão:</u> Engenheiro Clinico</li>
+                </ul>
+            </p>
+        </header>
+
+
+<main>
+<hr>
+        <section>
+            <h3>Exercicio Seção 1 - Receita</h3>
+            <p>Panqueca de Maisena!</p>
+
+            <ul><b>Ingredientes</b>
+                <li>1 Xicara de chá de Maisena</li>
+                <li>1 Ovo</li>
+                <li>1 Xicara de chá de leite </li>
+                <li>1 Pitada de Sal </li>
+            </ul>
+                
+            <ol><b>Modo de Preparo</b>
+                <li>No liquidificador, coloque o leite, o ovo, a maizena e o sal; <br> Se o ovo estiver pequeno pode se colocar 2.</li>
+                <li>Bata até ficar bem cremoso;</li>
+                <li>Esquente uma frigideira ante-aderente ou frigideira normal untada com manteiga;</li>
+                <li>Coloque uma concha da masa e doure dos dois lados;</li>
+                <li>Retire da frigideira, recheie a gosto (carne moída, frango, queijo, presunto, etc.);</li>
+                <li>Enrole e se desejar, coloque molho por cima e parmesão ralado.</li>
+                <li><b><i>E se delicie!</b></i></li>
+
+            <h5>Ainda com Dúvidas?... <i>Sério?!...</i> Veja os detalhes abaixo: <br>
+                <a href="https://comidinhasdochef.com/panqueca-de-maizena/"> Comidinhas do Chefe</a>
+            </h5>
+            </ol>
+<hr>
+        <section>
+            <h3>exercico Seção 2 Tabela</h3>
+            <p>Tabela:</p>
+
+            <table border = "17" >
+                <tr>
+                    <th>PRODUTOS</th>
+                    <th>VALOR UNITÁRIO</th>
+                    <th>QUANTIDADE DE ITENS EM ESTOQUE </th>
+                </tr>
+                <tr>
+                    <td>PAR DE FAROL CITROEN C4</td>
+                    <td>R$ 1987,00</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>LAMPADA BI-XENON</td>
+                    <td>R$ 457,00</td>
+                    <td>100</td>
+                </tr>
+                <tr>
+                    <td>VALVULA TERMOSTATICA</td>
+                    <td>R$ 2499,90</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>KIT FAROL DE MILHAS CITROEN</td>
+                    <td>R$ 3909,00</td>
+                    <td>7</td>
+                </tr>
+            </table>
+        </section>
+<hr>
+        <article>
+            <h3>Notícias sobre super Herois</h3>
+            <h2><p><b><i>Encontro de cosplay de Homem-Aranha transforma o Gasômetro em "Aranhaverso" </i></b></p></h2>
+            <h3><p><i>Evento celebrou os 60 anos da primeira aparição do personagem, que foram completados no dia 1º de agosto</i></p></h3>
+            <h6><p>Diferentes versões do Homem-Aranha posaram para fotos no Gasômetro
+                Jefferson Botega / Agencia RBS</p></h6>
+            
+            <img src="C:\Users\DELL\Desktop\new project\projeto 2 entrega" alt="https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2022/08/encontro-de-cosplay-de-homem-aranha-transforma-o-gasometro-em-aranhaverso-cl6js36rc0040017pu7j0esg7.html">
+            
+            <h5>
+                Quem passou pela área próxima à Usina do Gasômetro, na tarde deste domingo (7) frio e nublado, poderia até pensar em ter caído no “aranhaverso”. Ou seja, uma realidade paralela do multiverso da Marvel infestada por cerca de duas dezenas de versões do Homem-Aranha. Era quase isso: tratava-se do Aranhaverso 2022, primeiro encontro gaúcho de cosplay de personagens das histórias do super-herói aracnídeo.
+<br><br>
+                O evento foi organizado pela Embaixada Aracnídea RS, que foi criada por Vagner Rhodes, e tinha como finalidade celebrar os 60 anos da primeira aparição do Homem-Aranha — o que foi completado no dia 1º de agosto. O grupo é formado por fãs de diferentes cidades do Estado, que, por meio de um  grupo de WhatsApp, trocam informações sobre o personagem da Marvel e organizam ações — o que já incluiu até compra de uniforme para uma criança em tratamento de câncer. Não foi diferente neste domingo: a reunião aracnídea também estava arrecadando alimentos para doação.
+<br><br>
+                Além de diferentes versões de Homem-Aranha em diferentes corpos, marcaram presença cosplays de personagens como o advogado cego Matt Murdock (Demolidor), o editor-chefe John Jonah Jameson — dono do jornal nova-iorquino Clarim Diário, que vive tentando descobrir a identidade do aracnídeo —, Deadpool e até o Líder da série coreana Round 6. Embora não seja um personagem desse universo Marvel, foi o jeito que Alex Fontoura, integrante do grupo de cosplay República dos Heróis, encontrou de dar uma força ao evento.
+<br><br>
+                Postados próximos à chaminé do Gasômetro e com uma caixa de som que reproduzia músicas relacionadas ao Homem-Aranha e soul music, os cosplayers se tornaram uma sensação no local. Os transeuntes os abordavam a cada minuto para tirar foto. Os pedidos eram feitos tanto por crianças quanto por adultos — independentemente da idade, saíam com sorriso no rosto. Um círculo de curiosos e admiradores se formou ao redor dos participantes, que interpretavam poses de seus personagens.
+<br><br>
+                Morador de Porto Alegre, Rhodes é o criador do grupo e idealizador do encontro. Aos 39 anos, ele vestia um cosplay do Homem-Aranha de Miles Morales — com seu headphone, moletom verde, bermuda e tênis Nike Air Jordan sob o uniforme preto e vermelho. Adolescente negro e latino, Miles trouxe uma representatividade muito importante para o personagem, como frisa o organizador. E mais fãs pensam o mesmo: na mesma tarde, a reportagem de GZH contou quatro Miles no encontro.
+
+                O organizador estava acompanhado de seus dois filhos — Pedro, nove anos, e André, sete —, que também vestiam cosplay de Homem-Aranha. Há mais de 30 anos Rhodes é fã do personagem, que o ajudou em sua alfabetização e socialização na infância. Para ele, é fácil se identificar com Peter Parker, a identidade original por trás da máscara.
+<br><br>
+           </h5>
+         
+            <h4><i>Continue lendo mais sobre a notícia no link abaixo...</i><br>
+                <a href="https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2022/08/encontro-de-cosplay-de-homem-aranha-transforma-o-gasometro-em-aranhaverso-cl6js36rc0040017pu7j0esg7.html"> Continue aqui...</a>
+            </h4>
+        </article>
+<hr>
+        <footer>
+            <p><b> _Contato_ </b></p>
+            <ul><b><u>Email </u></b>rafael_lins2004@hotmail.com <br> <b><u>celular</u></u></b> 11 98370-1156</ul>
+
+        </footer>
+<hr>
+<hr>
+
+</head>
+<body>
+    
+</body>
+</html>
